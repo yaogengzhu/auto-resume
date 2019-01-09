@@ -1,12 +1,12 @@
 const path = require('path')
 const merge = require('webpack-merge')
-const webpackDevConfig = require('./webpack.dev')
+const webpackBaseConfig = require('./webpack.base')
 const config = require('./config')
 const htmlWebpackPlugin = require('html-webpack-plugin')
 const WebpackMarkdownToPdfPlugin = require('webpack-markdown-pdf-plugin')
 
 
-const webpackDemoConfig = merge(webpackDevConfig, {
+const webpackDemoConfig = merge(webpackBaseConfig, {
     entry: path.resolve(config.srcPath, 'index.js'),
     output: {
         filename: 'js/index.js',

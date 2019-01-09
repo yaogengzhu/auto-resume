@@ -5,11 +5,11 @@
 * ** / 男 / 1995
 * ** / **（****专业）
 * 工作年限：2年
-* 在线简历(gitpage): **** // gitpage是为了告诉面试官访问慢不是我的锅。。。
+* 在线简历(gitpage): **** // gitpage是为了告诉面试官访问慢不是我的锅  ┑(￣Д ￣)┍
 * 技术博客(gitpage)：[http://www.zpblogs.com/myBlogs/](http://www.zpblogs.com/myBlogs/)
 * Github: [https://github.com/Richard-Choooou](https://github.com/Richard-Choooou)
 * 期望职位：web前端程序员
-* 期望薪资：税前月薪**K（武汉）**K（北上广深）
+* 期望薪资：税前月薪 ** K（武汉）** K（北上广深）
 * 当前所在城市： 武汉
 * 期望城市：武汉
 

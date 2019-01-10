@@ -9,7 +9,7 @@ const ENV = process.env.NODE_ENV
 module.exports = {
     entry: path.resolve(config.basePath, 'src/index.js'),
     output: {
-        filename: 'js/index.js',
+        filename: 'js/index.[hash].js',
         path: path.resolve(config.basePath, './docs'),
         publicPath: './'
     },

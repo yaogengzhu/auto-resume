@@ -4,6 +4,5 @@ module.exports = {
     basePath: basePath,
     distPath: path.resolve(basePath, 'dist'),
     docPath: path.resolve(basePath, 'doc'),
-    srcPath: path.join(basePath, 'src'),
-    examplesPath: path.join(basePath, 'examples')
+    srcPath: path.join(basePath, 'src')
 }

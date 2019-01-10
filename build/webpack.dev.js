@@ -4,13 +4,10 @@ const webpackBaseConfig = require('./webpack.base')
 
 
 module.exports = merge(webpackBaseConfig, {
-    module: {
-        rules: []
-    },
     devServer: {
         host: '0.0.0.0',
         publicPath: '/',
-        hot: true,
+        hot: true
     },
 
     plugins: [

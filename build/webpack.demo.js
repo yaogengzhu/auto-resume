@@ -1,6 +1,6 @@
 const path = require('path')
 const merge = require('webpack-merge')
-const webpackBaseConfig = require('./webpack.base')
+const webpackBaseConfig = require('./webpack.dev')
 const config = require('./config')
 const htmlWebpackPlugin = require('html-webpack-plugin')
 const WebpackMarkdownToPdfPlugin = require('webpack-markdown-pdf-plugin')

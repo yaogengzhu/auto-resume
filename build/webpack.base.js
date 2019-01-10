@@ -11,8 +11,7 @@ module.exports = {
         modules: ['node_modules'],
         alias: {
             '@': config.basePath,
-            '@src': config.srcPath,
-            '@examples': config.examplesPath
+            '@src': config.srcPath
         }
     },  
     

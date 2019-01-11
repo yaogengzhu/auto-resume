@@ -3,6 +3,6 @@ const basePath = path.resolve(__dirname, '../', '../')
 module.exports = {
     basePath: basePath,
     distPath: path.resolve(basePath, 'dist'),
-    docPath: path.resolve(basePath, 'doc'),
+    docsPath: path.resolve(basePath, 'docs'),
     srcPath: path.join(basePath, 'src')
 }
